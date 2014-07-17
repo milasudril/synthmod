@@ -2,8 +2,8 @@
 target[name[utilities.h] type[include]]
 #endif
 
-#ifndef SYNTHMOD_VOICE_H
-#define SYNTHMOD_VOICE_H
+#ifndef SYNTHMOD_UTILITIES_H
+#define SYNTHMOD_UTILITIES_H
 
 #include <cmath>
 
